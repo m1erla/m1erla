@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @m1erla
-- 👀 I’m interested in => Java,C#,etc...
-- 🌱 I’m currently learning => Java, C#, Sql server, front end, back end
-- 💞️ I’m looking to collaborate on => you can find me on linkedin.
-- 📫 How to reach me => you can reach me on hotmail.
+- 👀 I’m interested in => Java,C#,Python...
+- 🌱 I’m currently learning => Java, Java SpringBoot, React...
+- 💞️ I’m looking to collaborate on => linkedin.
+- 📫 How to reach me => furkankarakus01@hotmail.com
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
