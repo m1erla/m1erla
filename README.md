@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Furkan Karakuş<br>    👀 I’m interested in => Java,C#,Python...<br>    🌱 I’m currently learning => Java, Java SpringBoot, React...<br>    💞️ I’m looking to collaborate on => linkedin.<br>    📫 How to reach me => furkankarakus01@hotmail.com<br><br>
+<br>    👋 Hi, I’m Furkan Karakuş<br>    👀 I’m interested in => Full-stack...<br>    🌱 I’m currently learning => Java, Java SpringBoot, React...<br>    💞️ I’m looking to collaborate on => linkedin.<br>    📫 How to reach me => furkankarakus01@hotmail.com<br><br>
 
 
 ## 🌐 Socials:
